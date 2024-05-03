@@ -1,0 +1,11 @@
+body {
+    background: #FFAE4B;
+    background: linear-gradient(to right, #ffae4b, #3a6b8c);
+  }
+  
+  .bg-image {
+    background-image: url(images/coucher_de_soleil.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }

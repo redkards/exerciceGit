@@ -14,3 +14,15 @@ footer {
   flex-grow: 0;
   flex-shrink: 0;
 }
+.navbar {
+  background-color: dimgray;
+  border-radius: 50px;
+}
+.container-fluid {
+  background-color: rgb(37, 178, 197);
+  border-radius: 50px;
+}
+.form-control {
+  background-color: rgb(165, 126, 201);
+  color: black;
+}
