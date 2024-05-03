@@ -1,0 +1,15 @@
+header {
+  background-color: burlywood;
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  height: 100px;
+  width: 100%;
+  background-color: aquamarine;
+}
+footer {
+  flex-grow: 0;
+  flex-shrink: 0;
+}
