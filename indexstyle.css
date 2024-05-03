@@ -14,9 +14,7 @@ h1 {
 }
 footer {
   background-color: coral;
-  flex-grow: 0;
-  flex-shrink: 0;
-}
+ 
 .navbar {
   background-color: dimgray;
   border-radius: 50px;
