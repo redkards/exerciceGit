@@ -9,6 +9,9 @@ body {
   width: 100%;
   background-color: aquamarine;
 }
+h1 {
+  text-align: center;
+}
 footer {
   background-color: coral;
   flex-grow: 0;
@@ -25,4 +28,17 @@ footer {
 .form-control {
   background-color: rgb(165, 126, 201);
   color: black;
+}
+
+.picture {
+  display: flex;
+  justify-content: center;
+}
+
+.image2 {
+  min-height: 300px;
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
 }
