@@ -26,3 +26,16 @@ footer {
   background-color: rgb(165, 126, 201);
   color: black;
 }
+
+.picture {
+  display: flex;
+  justify-content: center;
+}
+
+.image2 {
+  min-height: 300px;
+  width: 80%;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+}
