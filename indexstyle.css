@@ -10,6 +10,7 @@ body {
   background-color: aquamarine;
 }
 footer {
+  background-color: coral;
   flex-grow: 0;
   flex-shrink: 0;
 }
